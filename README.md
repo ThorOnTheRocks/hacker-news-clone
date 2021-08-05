@@ -43,3 +43,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # hacker-news-clone
+
+Small project to create a clone of hacker-news web application. The purpose of this small exercise is to learn and start developing a small app using React, the popular Javascript library.
